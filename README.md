@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi Khalangre</h1>
 <h3 align="center">A passionate Full Stack Development.</h3>
 
-- 🔭 I’m currently working on **Appointment Booking App**
-
-- 🌱 I’m currently learning **MongoDB (NoSQL database) Express.js (backend framework) React.js (frontend library) Node.js (runtime environment)**
+- 🔭 I’m currently working on **Open Source Project**
 
 - 👯 I’m looking to collaborate on **Full Stack Project**
 
