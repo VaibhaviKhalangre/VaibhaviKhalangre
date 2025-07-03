@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack,Data Science AI/ML**
 
-- 💬 Ask me about **HTML,CSS, React, Bootstrap, OOP**
+- 💬 Ask me about **HTML,CSS, React, Bootstrap, OOP,Python,Java**
 
 - 📫 How to reach me **khalangrevaibhavi@gmail.com**
 
