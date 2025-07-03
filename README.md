@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Project**
 
-- 🤝 I’m looking for help with **MERN Stack**
+- 🤝 I’m looking for help with **MERN Stack,Data Science AI/ML**
 
 - 💬 Ask me about **HTML,CSS, React, Bootstrap, OOP**
 
