@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Open Source Project**
 
-- 👯 I’m looking to collaborate on **Full Stack Project**
+- 👯 I’m looking to collaborate on **Full Stack Project And Data Science AI/ML project**
 
 - 🤝 I’m looking for help with **MERN Stack,Data Science AI/ML**
 
