@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi Khalangre</h1>
 <h3 align="center">A passionate Full Stack Development.</h3>
 
-- 🔭 I’m currently working on **Open Source Project**
 
 - 👯 I’m looking to collaborate on **Full Stack Project And Data Science AI/ML project**
 
