@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML,CSS, React, Bootstrap, OOP,Python,Java**
 
-- 📫 How to reach me **vaibhavikhalangr@gmail.com**
+- 📫 How to reach me **vaibhavikhalangre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
